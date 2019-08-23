@@ -1,0 +1,489 @@
+# depslib dependency file v1.0
+1495979468 source:c:\users\federico\c++\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1497890387 "
+
+1495675535 c:\users\federico\c++\tpe\include\lista.h
+
+1495674775 source:c:\users\federico\c++\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497356816 
+
+1495905514 source:c:\users\federico\c++\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 
+
+1495675001 c:\users\federico\c++\tpe\include\arreglo.h
+
+1495115470 source:c:\documents and settings\stefi\escritorio\tpe copia 2 perfecta\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1495075975 c:\documents and settings\stefi\escritorio\tpe copia 2 perfecta\tpe\include\lista.h
+
+1495115461 c:\documents and settings\stefi\escritorio\tpe copia 2 perfecta\tpe\include\arreglo.h
+
+1495115441 source:c:\documents and settings\stefi\escritorio\tpe copia 2 perfecta\tpe\src\arreglo.cpp
+	"Arreglo.h"
+
+1495113778 source:c:\documents and settings\stefi\escritorio\tpe copia 2 perfecta\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1495117168 source:c:\documents and settings\stefi\escritorio\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1495075975 c:\documents and settings\stefi\escritorio\tpe\include\lista.h
+
+1495115461 c:\documents and settings\stefi\escritorio\tpe\include\arreglo.h
+
+1495117654 source:c:\documents and settings\stefi\escritorio\tpe\src\arreglo.cpp
+	"Arreglo.h"
+
+1495113778 source:c:\documents and settings\stefi\escritorio\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1495117168 source:c:\users\federico\c++\tpe para corregir\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1495409928 c:\users\federico\c++\tpe para corregir\include\lista.h
+
+1495126635 c:\users\federico\c++\tpe para corregir\include\arreglo.h
+
+1495126635 source:c:\users\federico\c++\tpe para corregir\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1495126701 source:c:\users\federico\c++\tpe para corregir\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1495979468 source:c:\users\federico\desktop\trabajo practico especial\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1495675535 c:\users\federico\desktop\trabajo practico especial\tpe\include\lista.h
+
+1495675001 c:\users\federico\desktop\trabajo practico especial\tpe\include\arreglo.h
+
+1495905514 source:c:\users\federico\desktop\trabajo practico especial\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1495984778 source:c:\users\federico\desktop\trabajo practico especial\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1495979468 source:c:\users\federico\desktop\trabajo practico especial\trabajo practico especial\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1495675535 c:\users\federico\desktop\trabajo practico especial\trabajo practico especial\tpe\include\lista.h
+
+1495987383 c:\users\federico\desktop\trabajo practico especial\trabajo practico especial\tpe\include\arreglo.h
+
+1495987383 source:c:\users\federico\desktop\trabajo practico especial\trabajo practico especial\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1495987358 source:c:\users\federico\desktop\trabajo practico especial\trabajo practico especial\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1495979468 source:c:\users\feder\desktop\trabajo practico especial\trabajo practico especial\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1496021930 c:\users\feder\desktop\trabajo practico especial\trabajo practico especial\tpe\include\lista.h
+
+1496019594 c:\users\feder\desktop\trabajo practico especial\trabajo practico especial\tpe\include\arreglo.h
+
+1496019613 source:c:\users\feder\desktop\trabajo practico especial\trabajo practico especial\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1496018859 source:c:\users\feder\desktop\trabajo practico especial\trabajo practico especial\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1496022820 source:c:\users\feder\desktop\trabajo practico especial\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1496023658 c:\users\feder\desktop\trabajo practico especial\tpe\include\lista.h
+
+1496022880 c:\users\feder\desktop\trabajo practico especial\tpe\include\arreglo.h
+
+1496022880 source:c:\users\feder\desktop\trabajo practico especial\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1496023658 source:c:\users\feder\desktop\trabajo practico especial\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497303915 source:c:\users\feder\desktop\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1497303223 c:\users\feder\desktop\tpe\include\lista.h
+
+1496022882 c:\users\feder\desktop\tpe\include\arreglo.h
+
+1496022882 source:c:\users\feder\desktop\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497304929 source:c:\users\feder\desktop\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<iostream>
+
+1497309099 source:c:\users\feder\desktop\tpe - copia\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1497303223 c:\users\feder\desktop\tpe - copia\include\lista.h
+
+1497306965 c:\users\feder\desktop\tpe - copia\include\arreglo.h
+
+1497304929 source:c:\users\feder\desktop\tpe - copia\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<iostream>
+
+1497309781 source:c:\users\feder\desktop\tpe - copia\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497309996 source:c:\users\feder\desktop\tpe - copia\tpe - copia\main.cpp
+	<iostream>
+	<cstddef>
+	"Lista.h"
+	"Arreglo.h"
+
+1497355633 c:\users\feder\desktop\tpe - copia\tpe - copia\include\lista.h
+
+1497355725 c:\users\feder\desktop\tpe - copia\tpe - copia\include\arreglo.h
+
+1497309781 source:c:\users\feder\desktop\tpe - copia\tpe - copia\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497304929 source:c:\users\feder\desktop\tpe - copia\tpe - copia\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<iostream>
+
+1497890466 source:c:\users\feder\desktop\tpe corregido\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<math.h>
+	"Lista.h"
+	"Arreglo.h"
+	"Matriz.h"
+
+1497355633 c:\users\feder\desktop\tpe corregido\tpe\include\lista.h
+
+1497887475 c:\users\feder\desktop\tpe corregido\tpe\include\arreglo.h
+
+1497887475 source:c:\users\feder\desktop\tpe corregido\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497356816 source:c:\users\feder\desktop\tpe corregido\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497890387 c:\users\feder\desktop\tpe corregido\tpe\include\matriz.h
+	"Arreglo.h"
+
+1497888684 source:c:\users\feder\desktop\tpe corregido\tpe\src\matriz.cpp
+	"Matriz.h"
+	"cassert"
+
+1498587697 source:c:\users\feder\desktop\tpe\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	"Matriz.h"
+
+1497355633 c:\users\feder\desktop\tpe\tpe\include\lista.h
+
+1497887475 c:\users\feder\desktop\tpe\tpe\include\arreglo.h
+
+1497887475 source:c:\users\feder\desktop\tpe\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497356816 source:c:\users\feder\desktop\tpe\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1498587697 c:\users\feder\desktop\tpe\tpe\include\matriz.h
+
+1498587698 source:c:\users\feder\desktop\tpe\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+	<iostream>
+
+1498602841 source:c:\users\usuario\desktop\tpe\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498598152 c:\users\usuario\desktop\tpe\tpe\include\matriz.h
+
+1497887475 source:c:\users\usuario\desktop\tpe\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\usuario\desktop\tpe\tpe\include\arreglo.h
+
+1497356816 source:c:\users\usuario\desktop\tpe\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\usuario\desktop\tpe\tpe\include\lista.h
+
+1498598152 source:c:\users\usuario\desktop\tpe\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+
+1497887475 source:c:\users\usuario\desktop\tp\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\usuario\desktop\tp\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\usuario\desktop\tp\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\usuario\desktop\tp\tpe final\tpe\include\lista.h
+
+1498603364 source:c:\users\usuario\desktop\tp\tpe final\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+
+1498598152 c:\users\usuario\desktop\tp\tpe final\tpe\include\matriz.h
+
+1498602990 source:c:\users\usuario\desktop\tp\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498605480 source:c:\users\feder\downloads\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498598152 c:\users\feder\downloads\tpe final\tpe\include\matriz.h
+
+1497887475 source:c:\users\feder\downloads\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\feder\downloads\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\feder\downloads\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\feder\downloads\tpe final\tpe\include\lista.h
+
+1498605504 source:c:\users\feder\downloads\tpe final\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+
+1497887475 source:c:\users\feder\desktop\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\feder\desktop\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\feder\desktop\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\feder\desktop\tpe final\tpe\include\lista.h
+
+1498684517 source:c:\users\feder\desktop\tpe final\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+
+1498684517 c:\users\feder\desktop\tpe final\tpe\include\matriz.h
+
+1498680689 source:c:\users\feder\desktop\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498684572 source:c:\users\feder\desktop\tpe final\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498684517 c:\users\feder\desktop\tpe final\tpe final\tpe\include\matriz.h
+
+1497887475 source:c:\users\feder\desktop\tpe final\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\feder\desktop\tpe final\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\feder\desktop\tpe final\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\feder\desktop\tpe final\tpe final\tpe\include\lista.h
+
+1498684517 source:c:\users\feder\desktop\tpe final\tpe final\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+
+1497887475 source:c:\users\federico\desktop\tpe final\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\federico\desktop\tpe final\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\federico\desktop\tpe final\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\federico\desktop\tpe final\tpe final\tpe\include\lista.h
+
+1498693878 source:c:\users\federico\desktop\tpe final\tpe final\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+
+1498693878 c:\users\federico\desktop\tpe final\tpe final\tpe\include\matriz.h
+
+1498693078 source:c:\users\federico\desktop\tpe final\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498694267 source:c:\users\federico\desktop\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498693878 c:\users\federico\desktop\tpe final\tpe\include\matriz.h
+
+1497887475 source:c:\users\federico\desktop\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\federico\desktop\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\federico\desktop\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\federico\desktop\tpe final\tpe\include\lista.h
+
+1497887475 source:c:\users\feder\desktop\tp-especial\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\feder\desktop\tp-especial\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\feder\desktop\tp-especial\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\feder\desktop\tp-especial\tpe final\tpe\include\lista.h
+
+1498742138 source:c:\users\feder\desktop\tp-especial\tpe final\tpe\src\matriz.cpp
+	"Matriz.h"
+	<cstddef>
+
+1498742138 c:\users\feder\desktop\tp-especial\tpe final\tpe\include\matriz.h
+
+1498742138 source:c:\users\feder\desktop\tp-especial\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498742138 source:c:\users\feder\desktop\tp-especial\tp-especial\tpe final\tpe\main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498742138 c:\users\feder\desktop\tp-especial\tp-especial\tpe final\tpe\include\matriz.h
+
+1497887475 source:c:\users\feder\desktop\tp-especial\tp-especial\tpe final\tpe\src\arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 c:\users\feder\desktop\tp-especial\tp-especial\tpe final\tpe\include\arreglo.h
+
+1497356816 source:c:\users\feder\desktop\tp-especial\tp-especial\tpe final\tpe\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 c:\users\feder\desktop\tp-especial\tp-especial\tpe final\tpe\include\lista.h
+
+1498742138 source:/home/federico/Descargas/TPE FINAL/TPE/main.cpp
+	<iostream>
+	<cstddef>
+	<cmath>
+	"Matriz.h"
+
+1498742138 /home/federico/Descargas/TPE FINAL/TPE/include/Matriz.h
+
+1497887475 source:/home/federico/Descargas/TPE FINAL/TPE/src/Arreglo.cpp
+	"Arreglo.h"
+	<assert.h>
+
+1497887475 /home/federico/Descargas/TPE FINAL/TPE/include/Arreglo.h
+
+1497356816 source:/home/federico/Descargas/TPE FINAL/TPE/src/Lista.cpp
+	"Lista.h"
+	<cstddef>
+
+1497355633 /home/federico/Descargas/TPE FINAL/TPE/include/Lista.h
+
+1498747334 source:/home/federico/Descargas/TPE FINAL/TPE/src/Matriz.cpp
+	"Matriz.h"
+	<cstddef>
+

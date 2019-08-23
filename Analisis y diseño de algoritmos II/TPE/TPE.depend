@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508262021 source:e:\documentos\programacion\c++\tpe\src\amazonas.cpp
+	"Amazonas.h"
+
+1508262021 e:\documentos\programacion\c++\tpe\include\amazonas.h
+	<list>
+	<map>
+
+1508258106 source:e:\documentos\programacion\c++\tpe\main.cpp
+	<iostream>
+	<map>
+	"Amazonas.h"
+

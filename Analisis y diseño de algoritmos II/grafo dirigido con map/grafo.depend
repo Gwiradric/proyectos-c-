@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1503965116 source:e:\carpetas personales\federico\documents\programacion\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1503965061 source:e:\carpetas personales\federico\documents\programacion\grafo\src\grafo.cpp
+	"Grafo.h"
+
+1503965061 e:\carpetas personales\federico\documents\programacion\grafo\include\grafo.h
+	<list>
+	<map>
+
+1505420642 source:e:\documentos\programacion\c++\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1505420505 e:\documentos\programacion\c++\grafo\include\grafo.h
+	<list>
+	<map>
+	<iostream>
+	<cassert>
+
+1504706860 source:e:\documentos\programacion\c++\grafo\src\grafo.cpp
+	"Grafo.h"
+
+1506109925 source:e:\documentos\programacion\c++\grafo - copia\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1506117039 e:\documentos\programacion\c++\grafo - copia\include\grafo.h
+	<iostream>
+	<map>
+	<list>
+	<cassert>
+
+1504882048 source:e:\documentos\programacion\c++\grafo - copia\src\grafo.cpp
+	"Grafo.h"
+	<cstddef>
+

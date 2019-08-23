@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1503180752 source:e:\c++\inmobiliaria\main.cpp
+	<iostream>
+	"Inmueble.h"
+	"Coleccion_Inmuebles.h"
+
+1502742480 source:e:\c++\inmobiliaria\src\inmueble.cpp
+	"Inmueble.h"
+
+1502742438 e:\c++\inmobiliaria\include\inmueble.h
+	<iostream>
+
+1502742506 source:e:\c++\inmobiliaria\src\coleccion_inmuebles.cpp
+	"Coleccion_Inmuebles.h"
+
+1502730500 e:\c++\inmobiliaria\include\coleccion_inmuebles.h
+	"Inmueble.h"
+	<map>
+	<list>
+
+1502742480 source:e:\documentos\programacion\c++\inmobiliaria\src\inmueble.cpp
+	"Inmueble.h"
+
+1502742438 e:\documentos\programacion\c++\inmobiliaria\include\inmueble.h
+	<iostream>
+
+1503491421 source:e:\documentos\programacion\c++\inmobiliaria\src\coleccion_inmuebles.cpp
+	"Coleccion_Inmuebles.h"
+
+1502730500 e:\documentos\programacion\c++\inmobiliaria\include\coleccion_inmuebles.h
+	"Inmueble.h"
+	<map>
+	<list>
+
+1504703706 source:e:\documentos\programacion\c++\inmobiliaria\main.cpp
+	<iostream>
+	"Inmueble.h"
+	"Coleccion_Inmuebles.h"
+	"list"
+
